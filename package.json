@@ -8,9 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "firebase": "^9.18.0",
-    "vue": "^3.2.45",
-    "vuefire": "^3.1.0"
+    "vue": "^3.2.45"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
