@@ -1,7 +1,12 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
+import { useFirestore } from 'vuefire'
+
+const db = useFirestore()
 </script>
+
+
 
 <template>
   <header>
